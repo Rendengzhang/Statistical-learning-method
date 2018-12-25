@@ -1,6 +1,6 @@
 # Statistical-learning-method
-This is my practice about Statistical learning method
-It's a record of growth.The content is based on the book Statistical Learning Method by Lihang.
+This is my practice about Statistical learning method.
+It's a record of my growth.The content is based on the book Statistical Learning Method by Lihang.
 I'll give you a catalogue:
 Chapter01:least_sqaure_method
 Chapter02:Iris_perceptron
